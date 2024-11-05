@@ -1,6 +1,6 @@
-KERNEL_SOURCE=https://github.com/unifreq/linux-5.15.y.git
-KERNEL_SOURCE_BRANCH=main
-KERNEL_CONFIG=defconfig
+KERNEL_SOURCE=https://github.com/sm8550/android_kernel_xiaomi_socrates.git
+KERNEL_SOURCE_BRANCH=a14
+KERNEL_CONFIG=gki_defconfig
 KERNEL_IMAGE_NAME=Image
 ARCH=arm64
 
